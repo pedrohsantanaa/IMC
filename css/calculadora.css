@@ -1,0 +1,150 @@
+/*Titulo*/
+.temamulher{
+    background-color: #ca7786;
+
+}
+.temahomem{
+    background-color: #4fa0b1;
+
+}
+header{
+    background-color:#4fa0b1;
+    padding: 1em;
+    margin-bottom: 3%;
+    text-align: center;
+    margin: 0%;
+}
+/*Fundo*/
+body{
+    background-color: #bcb8b8;
+}
+
+
+#conteudo{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    padding-right:0%;
+    margin: 1%;
+   
+    
+}
+
+#dados{
+    background-color: #4d4d4d;
+    padding-right: 30%;
+    border-radius: 3%;
+    margin: 0%;
+
+
+}
+
+
+#imgResult{
+    max-width: 400%;
+    margin-left: 15%;
+    padding-right: 50%;
+    
+}
+#botao1, #botao2, #botao3{
+    display: inline-block;
+    padding: 4%;
+    max-width: 55%;
+    margin: 0%;
+    border-radius: 10%;
+    border-color:beige;
+}
+
+@media (min-width: 200px) and (max-width:1200px) {
+    #imgResult{
+        max-width: 200%;
+        margin-left: 30%;
+        padding-right: 50%;
+        
+    }
+    #botao1, #botao2, #botao3{
+        display: inline-block;
+        padding: 4%;
+        max-width: 150%;
+        margin: 0%;
+        border-radius: 10%;
+        border-color:beige;
+    }
+    #dados{
+        background-color: #4d4d4d;
+        padding-right: 50%;
+        border-radius: 3%;
+        margin: 0%;
+    
+    
+    }
+    #resultado{
+        border-radius: 15%;
+        margin: 0;
+        max-height: 370px;
+        max-width: 300px;
+    
+     
+    
+    }
+    #nome{
+        font-family: inknut Antiqua;
+        color: #bcb8bc;
+        font-size:xx-large;
+        margin: 0%;
+       
+    
+    }
+    
+}
+
+#m{
+    margin-left: 60%;
+    margin-right: 50%;
+    border-radius: 10%;
+    padding: 15%;
+}
+#h{
+    margin-right: 50%;
+    border-radius: 10%;
+    padding: 15%;
+    
+     
+    
+}
+
+#calcular{
+    display: inline-block;
+    margin-left: 140%;
+    padding: 6%;
+    margin-bottom: 10%;
+    font-size: larger;
+    border-radius: 10px;
+    padding-right: 50px;
+    padding-left: 30px;
+   
+   
+}
+#resultado{
+    border-radius: 15%;
+    margin: 0;
+    max-height: 370px;
+    max-width: 300px;
+
+ 
+
+}
+#nome{
+    font-family: inknut Antiqua;
+    color: #bcb8bc;
+    font-size:xx-large;
+    margin: 0%;
+
+}
+#titulo{
+    color: white;
+    font-family: inknut Antiqua;
+    
+}
+
+   
+
